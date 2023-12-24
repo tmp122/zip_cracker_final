@@ -28,7 +28,7 @@ def main():
                 return
             except Exception as e:
                 print(e)
-                continue  # Continue to the next password
+                continue 
         else:
             print("Sorry, password not found.")
  
