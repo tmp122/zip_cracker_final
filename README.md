@@ -8,7 +8,7 @@ passwords.txt -> password masterlist (most commonly used passwords in order of u
 secret4u.zip & test1.zip -> test files <br>
 (ensure pyzipper module is installed; `pip install pyzipper`) <br>
 
-credits: 
+Credits: 
 https://pypi.org/project/pyzipper/; <br>
 https://github.com/doyler/SecurityTools/tree/master/ZipCracker; <br>
 https://github.com/agusmakmun/Python-ZIP-Cracker; <br>
